@@ -1,0 +1,17 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "calculate your BMI using my awesome code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bmi"
+  ],
+  "author": "angelica costantini",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
